@@ -19,12 +19,15 @@ body {
 body {
   display: grid;
   place-items: center;
+  background-color: purple;
 }
 
 main {
   background: url(../images/background.svg);
-  width: 375px;
-  height: 812px;
+  background-position: center;
+  width: 100%;
+  max-width: 500px;
+  height: 100vh;
 }
 
 .container {

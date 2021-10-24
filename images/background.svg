@@ -1,19 +1,19 @@
-<svg width="375" height="812" viewBox="0 0 375 812" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="100%" height="812" viewBox="0 0 100% 812" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g clip-path="url(#clip0)">
-<rect width="375" height="812" fill="#202024"/>
+<rect width="100%" height="812" fill="#202024"/>
 <circle cx="278" cy="99" r="300" transform="rotate(-180 278 99)" fill="url(#paint0_radial)"/>
 <circle cx="98" cy="99" r="300" transform="rotate(-180 98 99)" fill="url(#paint1_radial)"/>
-<mask id="mask0" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="375" height="812">
-<rect width="375" height="812" fill="#202024"/>
+<mask id="mask0" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="100%" height="812">
+<rect width="100%" height="812" fill="#202024"/>
 </mask>
 <g mask="url(#mask0)">
-<path d="M375 168.101V-310.699L187.478 -418.486L-0.0446777 -310.699V168.101L187.478 275.894L375 168.101Z" fill="url(#paint2_linear)"/>
+<path d="M100% 168.101V-310.699L187.478 -418.486L-0.0446777 -310.699V168.101L187.478 275.894L100% 168.101Z" fill="url(#paint2_linear)"/>
 <g style="mix-blend-mode:luminosity" opacity="0.4">
 <path d="M1.83662 61.3931V168.797L95.1275 222.505L188.418 168.797V61.3931L95.1275 7.68578L1.83662 61.3931Z" fill="url(#paint3_linear)"/>
 <path d="M1.83662 -46.0166V61.3877L95.1275 115.095L188.418 61.3877V-46.0166L95.1275 -99.7239L1.83662 -46.0166Z" fill="url(#paint4_linear)"/>
 <path d="M281.709 -99.6961V7.70821L188.418 61.4155L95.1274 7.70821V-99.6961L188.418 -153.403L281.709 -99.6961Z" fill="url(#paint5_linear)"/>
-<path d="M188.418 168.797V61.3927L281.709 7.68539L375 61.3927V168.797L281.709 222.504L188.418 168.797Z" fill="url(#paint6_linear)"/>
-<path d="M375 -46.0166V61.3877L281.709 115.095L188.418 61.3877V-46.0166L281.709 -99.7239L375 -46.0166Z" fill="url(#paint7_linear)"/>
+<path d="M188.418 168.797V61.3927L281.709 7.68539L100% 61.3927V168.797L281.709 222.504L188.418 168.797Z" fill="url(#paint6_linear)"/>
+<path d="M100% -46.0166V61.3877L281.709 115.095L188.418 61.3877V-46.0166L281.709 -99.7239L100% -46.0166Z" fill="url(#paint7_linear)"/>
 <path d="M281.709 222.527V115.123L188.418 61.4155L95.1274 115.123L95.1274 222.527L188.418 276.234L281.709 222.527Z" fill="url(#paint8_linear)"/>
 </g>
 </g>
@@ -43,7 +43,7 @@
 <stop stop-color="#FF008E" stop-opacity="0"/>
 <stop offset="1" stop-color="#FFCD1E"/>
 </linearGradient>
-<linearGradient id="paint6_linear" x1="375" y1="174.833" x2="188.706" y2="62.4152" gradientUnits="userSpaceOnUse">
+<linearGradient id="paint6_linear" x1="100%" y1="174.833" x2="188.706" y2="62.4152" gradientUnits="userSpaceOnUse">
 <stop stop-color="#FF008E" stop-opacity="0"/>
 <stop offset="1" stop-color="#FFCD1E"/>
 </linearGradient>
@@ -56,7 +56,7 @@
 <stop offset="1" stop-color="#FF008E" stop-opacity="0"/>
 </linearGradient>
 <clipPath id="clip0">
-<rect width="375" height="812" fill="white"/>
+<rect width="100%" height="812" fill="white"/>
 </clipPath>
 </defs>
 </svg>
