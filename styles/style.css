@@ -11,35 +11,31 @@
 html,
 body {
   color: var(--gray);
-  height: 100%;
   font-family: 'Roboto', sans-serif;
   -webkit-font-smoothing: antialiased;
 }
 body > #bg {
+  width: 100vw;
   height: 100%;
-  width: 100%;
   background-color: rgb(0, 238, 255);
-  clip-path: polygon(100% 71%, 100% 0%, 37% 0, 0 24%, 0% 100%, 70% 100%);
-  position: absolute;
-  z-index: -1;
+  clip-path: polygon(100% 46%, 100% 0%, 37% 0, 0 24%, 0% 100%, 41% 100%);
 }
 body {
   display: grid;
   place-items: center;
-  width: 100%;
-  height: 100%;
+  height: 100vh;
 }
 
 main {
-  width: 100%;
-  max-width: 500px;
-  height: 500px;
+  max-width: 100%;
   margin: auto;
+  height: 100vh;
 }
 
 .container {
+  position: relative;
+  top: -110px;
   max-width: 250px;
-  height: 100%;
   margin-left: auto;
   margin-right: auto;
   text-align: center;
